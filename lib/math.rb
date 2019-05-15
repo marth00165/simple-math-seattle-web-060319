@@ -40,7 +40,9 @@ end
 
 def square_root(num)
 
+num2 = integer.sqrt(num)
 
+return num2
 
 end
 
